@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 85e76ff3ebacd461aa8df774961ec259
+timeCreated: 1512072044
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Infinite Justice Straight
+  fontNames:
+  - Infinite Justice Straight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
