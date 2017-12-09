@@ -19,10 +19,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 749
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 14000, y: 14021}
+  m_MinSize: {x: 683, y: 495}
+  m_MaxSize: {x: 14004, y: 14045}
   vertical: 1
-  controlID: 26677
+  controlID: 8074
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,10 +119,10 @@ MonoBehaviour:
     y: 0
     width: 1440
     height: 749
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 14000, y: 14021}
+  m_MinSize: {x: 683, y: 495}
+  m_MaxSize: {x: 14004, y: 14045}
   vertical: 0
-  controlID: 26678
+  controlID: 8075
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,10 +143,10 @@ MonoBehaviour:
     y: 0
     width: 989
     height: 749
-  m_MinSize: {x: 402, y: 471}
-  m_MaxSize: {x: 10000, y: 14021}
+  m_MinSize: {x: 406, y: 495}
+  m_MaxSize: {x: 10002, y: 14045}
   vertical: 1
-  controlID: 26679
+  controlID: 8076
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,10 +167,10 @@ MonoBehaviour:
     y: 0
     width: 989
     height: 452
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 26680
+  controlID: 8077
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 304
     height: 452
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -224,9 +224,9 @@ MonoBehaviour:
     height: 431
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 94260000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 2874f8ff9075f8fff8a2f9ff24e7f9ff10e9f9ff2021faff2228faff5645faffae48faffbc9afaff28b5faff48b7faff12b8faff5ebafaff1abcfaffcabdfaff70bffaff24f0faff94f9faffa485fbff248efbfffa90fbff7293fbffea95fbff06a8fbff1cedfdffb8e0feff58e6feffb60dfffff017ffff6419ffffd21affffe81cffffd033ffff4235ffff8836ffffc437ffffb839ffff8e7bffff788dfffff28effff1c91ffff6093ffff2a96ffff1699fffff899fffffe9bffffe0fbffff00000000be270000fe3b00003c4800007c480000a6480000b0480000ca4800009c4b00003e500000845a0000908600000a8c0000c48c0000649d000018a40000d0a500002ca600003ea6000062a600007ca6000086a60000d0a7000004a800000ea8000036a80000e2a80000fea8000018a9000022a900004ca9000056a9000070a90000
+    m_ExpandedIDs: 1680feff9c87feff46eafeffc405fffff211ffff70f7ffffe0fbffff00000000d4800000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -267,15 +267,15 @@ MonoBehaviour:
     y: 0
     width: 685
     height: 452
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
-  - {fileID: 2}
   - {fileID: 9}
+  - {fileID: 2}
   - {fileID: 10}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,14 +303,14 @@ MonoBehaviour:
     width: 681
     height: 431
   m_SceneLighting: 1
-  lastFramingTime: 19946.057788014412
+  lastFramingTime: 1340.6729199886322
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.838292, y: 382.91223, z: -441.77618}
+    m_Target: {x: 0.34516504, y: 282.32904, z: -28.766788}
     speed: 2
-    m_Value: {x: -9.838292, y: 382.91223, z: -441.77618}
+    m_Value: {x: 0.34516504, y: 282.32904, z: -28.766788}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -333,13 +333,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.011308049, y: 0.4049931, z: -0.004954048, w: 0.9142364}
+    m_Target: {x: -0.4325614, y: 0.006736029, z: -0.003287697, w: -0.9015733}
     speed: 2
-    m_Value: {x: 0.011308049, y: 0.40499312, z: -0.004954048, w: 0.9142365}
+    m_Value: {x: -0.43256143, y: 0.006736029, z: -0.0032876972, w: -0.9015733}
   m_Size:
-    m_Target: 181.86055
+    m_Target: 13.943806
     speed: 2
-    m_Value: 181.86055
+    m_Value: 13.943806
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -439,19 +439,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/giselewassa/Desktop/Weave V3.5
+  m_LastProjectPath: /Users/giselewassa/Desktop/Github/Weave-3.5/Weave V3.5
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 97}
-    m_SelectedIDs: c2260000
-    m_LastClickedID: 9922
-    m_ExpandedIDs: 000000000a260000c2260000e226000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 29}
+    m_SelectedIDs: e6270000
+    m_LastClickedID: 10214
+    m_ExpandedIDs: 000000000c2600005a270000e6270000ee27000000280000462800004c2800007c28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -479,7 +479,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a260000c2260000e226000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000c2600005a270000ee27000000280000462800004c2800007c28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,8 +504,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 94260000
-    m_LastClickedInstanceID: 9876
+    m_SelectedInstanceIDs: 8a800000
+    m_LastClickedInstanceID: 32906
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 8605000000000000
     m_RenameOverlay:
@@ -533,7 +533,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 317
+  m_DirectoriesAreaWidth: 116
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -612,7 +612,7 @@ MonoBehaviour:
     y: 94
     width: 449
     height: 728
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 116.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
